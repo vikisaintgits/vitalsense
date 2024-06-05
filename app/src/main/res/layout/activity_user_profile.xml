@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#eeeff4"
+    >
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="125dp"
+        android:src="@drawable/user_icon" />
+
+    <TextView
+        android:id="@+id/usrname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_semibold"
+        android:textColor="#161543"
+        android:layout_marginTop="10dp"
+        android:text="Vishnu Thulasidas"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4f000b"
+        android:fontFamily="@font/poppins_semibold"
+        android:text="Logout"
+        android:onClick="logout"
+        app:backgroundTint="#d62828"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp" />
+
+</LinearLayout>
