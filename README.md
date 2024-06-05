@@ -46,7 +46,7 @@ To get started with the VitalSense App, follow these steps:
     - Click the "Run" button in Android Studio to build and install the app on your device.
 
 ## Screenshots
-<p align="center">
+<p align="left">
 <img src="https://raw.githubusercontent.com/vikisaintgits/vitalsense/main/screenshots/dash.jpeg" alt="Image" width="200"/>&nbsp&nbsp&nbsp&nbsp
 <img src="https://raw.githubusercontent.com/vikisaintgits/vitalsense/main/screenshots/image_catch.jpeg" alt="Image" width="200"/>&nbsp&nbsp&nbsp&nbsp
 <img src="https://raw.githubusercontent.com/vikisaintgits/vitalsense/main/screenshots/timer.jpeg" alt="Image" width="200"/>&nbsp&nbsp&nbsp&nbsp
