@@ -11,7 +11,6 @@ VitalSense is an Android application that leverages smartphone sensors to monito
 
 ### Heart Rate Monitoring Module
 - Tracks heart rate using the smartphone's camera and flash.
-- Applies Fast Fourier Transform (FFT) to analyze captured images and identify heartbeats.
 - Provides heart rate in beats per minute (BPM), enabling heart rate monitoring.
 
 ### Respiration Rate Measurement Module
