@@ -17,7 +17,6 @@ import android.widget.Toast;
 
 
 import java.util.ArrayList;
-import java.util.concurrent.atomic.AtomicBoolean;
 
 import static java.lang.Math.ceil;
 
@@ -26,7 +25,6 @@ import com.vishnu.vitalsense.Math.Fft;
 public class HeartRateProcess extends Activity {
 
     private static final String TAG = "HeartRateMonitor";
-    private static final AtomicBoolean processing = new AtomicBoolean(false);
     private SurfaceView preview = null;
     private static SurfaceHolder previewHolder = null;
     private static Camera camera = null;
